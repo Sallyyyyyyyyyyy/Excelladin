@@ -1,0 +1,9 @@
+=== Excelladin Reloaded Tab Hernoem Patch ===
+Uitgevoerd op: 2025-03-07 14:01:56
+==================================================
+Backup gemaakt: modules\gui_backup_20250307_140156.py
+Succes: 3 tabbladen hernoemd in modules\gui.py
+De volgende tab-labels zijn gewijzigd:
+- 'ProductSheet aanmaken' -> '1 ProductSheet'
+- 'Sheet Kiezen' -> '2 Sheet Kiezen'
+- 'Acties' -> '3 Acties'

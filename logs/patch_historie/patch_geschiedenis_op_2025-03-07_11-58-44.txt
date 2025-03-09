@@ -1,0 +1,10 @@
+=== Excelladin Reloaded Patchlijst ===
+Deze file bevat een overzicht van alle toegepaste patches
+==================================
+
+
+[2025-03-07 11:53:45] - Logging Patch
+* Logbestanden worden nu in 'logs' map opgeslagen met datum/tijd in bestandsnaam
+* Maximaal 5 logbestanden worden bewaard
+* Patches worden gelogd naar 'logs/Uitgevoerde patchlijst'
+* Er worden kopieën van de patchlijst gemaakt in 'logs/patch_historie'

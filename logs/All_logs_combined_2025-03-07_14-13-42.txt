@@ -1,0 +1,7 @@
+=== Excelladin Reloaded Log Bestand ===
+Gestart op: 2025-03-07 14:13:42
+==========================================
+
+[2025-03-07 14:13:42] [INFO] O wijze gebruiker, Instellingen geladen uit bestand
+[2025-03-07 14:13:43] [INFO] O wijze gebruiker, Excelladin Reloaded wordt opgestart
+[2025-03-07 14:13:43] [INFO] O wijze gebruiker, Start maken van volledige applicatie backup

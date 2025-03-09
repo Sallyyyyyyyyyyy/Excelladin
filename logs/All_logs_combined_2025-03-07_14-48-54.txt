@@ -1,0 +1,14 @@
+=== Excelladin Reloaded Log Bestand ===
+Gestart op: 2025-03-07 14:48:54
+==========================================
+
+[2025-03-07 14:48:54] [INFO] O wijze gebruiker, Instellingen geladen uit bestand
+[2025-03-07 14:48:54] [INFO] O wijze gebruiker, Excelladin Reloaded wordt opgestart
+[2025-03-07 14:48:54] [INFO] O wijze gebruiker, Start maken van volledige applicatie backup
+[2025-03-07 14:48:54] [INFO] O wijze gebruiker, Volledige applicatie backup gemaakt in: C:\Users\boots\SynologyDrive\Metro\07. Website\Excelladin Reloaded v1\!fullappbackups\backup_2025-03-07_14-48-54
+[2025-03-07 14:48:55] [INFO] O wijze gebruiker, Logo afbeelding succesvol geladen
+[2025-03-07 14:48:55] [INFO] O wijze gebruiker, Excel-bestand geopend: C:/Users/boots/SynologyDrive/Metro/07. Website/products2import.xlsx
+[2025-03-07 14:48:55] [INFO] O wijze gebruiker, Kolommen gevonden: Merk, Type, Serienummer, ProductPrice-Referentieprijs, Newvalue-Inkoopprijs, EndlessStock-Oneindige voorraad, Stock, StockMode, Producttitel categoriepagina en winkelwagen, Product_Title, Product_UrlName, Product_Productcode, Product_CategoryID_chosen, Product_Synonym, Product_DecriptionShort, Product.Decription, Product_QuotationDescription, metatitle, metadescription, Product_ShowOnHomepage, Product_Active, Product_ServiceProduct
+[2025-03-07 14:48:55] [INFO] O wijze gebruiker, Instelling Algemeen.LaatsteBestand ingesteld op C:/Users/boots/SynologyDrive/Metro/07. Website/products2import.xlsx
+[2025-03-07 14:48:57] [INFO] O wijze gebruiker, Applicatie gestart
+[2025-03-07 14:49:03] [INFO] O wijze gebruiker, Applicatie afgesloten
